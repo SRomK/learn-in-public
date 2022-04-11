@@ -1,0 +1,87 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    #Profile information
+    name: Sofia Romero Kamermann
+    tagline: Full Stack Developer
+    avatar: profile.png
+
+    #Sidebar links
+    email: sofiaxrk@gmail.com
+    phone: 666567615
+    website: 
+    linkedin: https://www.linkedin.com/in/sofiaromerokamermann/
+    github: SRomK
+    twitter: 
+    stack-overflow: TankGirlSR
+
+    languages:
+
+      - idiom: Spanish 
+        level: Native
+        
+      - idiom: English
+        level: Native
+
+    interests:
+
+      - item: Coding
+
+      - item: Art
+
+      - item: Animals
+
+education:
+    - degree: Full Stack Developer
+      university: 4Geeks Academy Spain
+      time: 2022
+      details: 
+
+    - degree: Marketing Digital
+      university: CICE
+      time: 2016
+      details: 
+
+    - degree: Relaciones Publicas
+      university: Fundacion de Altos Estudios Comerciales
+      time: 2015
+      details: 
+
+      
+experiences:
+    - role: Student at Full Stack Development Bootcamp
+      time: ended on April 2022
+      company: 4Geeks Academy Spain
+     
+      
+projects:
+    intro: >
+     
+    
+    assignments:
+      - title: Excuse-Generator
+        link: https://github.com/SRomK/Excuse-Generator-Final
+        tagline: Created a excuse generator with HTML, CSS and JavaScript
+
+      - title: Instagram Photo-Feed
+        link: https://github.com/SRomK/Project-instagram-photo-feed
+        tagline: Instagram Photo Feed
+        
+      - title: Digital Postcard
+        link: https://github.com/SRomK/Proyecto-Postcard
+        tagline: Instagram Postcard
+
+
+
+skills:
+    toolset:
+
+      - name: Javascript
+        level: 65%
+
+      - name: HTML5 & CSS3
+        level: 90%
+
+    
